@@ -1,0 +1,14 @@
+@font-face {
+    font-family: nawasenaj;
+    src: url('nawasenaj/nawasenaj.ttf') format('truetype');
+    }
+
+body{
+    font-family: 'nawasenaj', 'sans-serif';
+}
+
+.judul{
+    font-size: 50px;
+    text-align: center;
+}
+   
